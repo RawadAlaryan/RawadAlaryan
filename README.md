@@ -1,5 +1,5 @@
 Rawad Alaryan | Software Engineer and Developer.
-[My Personal Software Portfolio:](https://rawadalaryan.me)
+[Check My Personal Software Portfolio Website](https://rawadalaryan.me)
 
 
 <!---
